@@ -15,6 +15,10 @@
     width: 60px;
 }
 
+body {
+    position: relative;
+}
+
 #main .carousel-inner img {
     max-height: 70vh;
     object-fit: cover;
@@ -70,6 +74,6 @@
 
 .navbar-custom .navbar-brand,
 .navbar-custom .navbar-text {
-    color: white;
+    color: whitesmoke;
     size: 10px;
 }
